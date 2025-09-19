@@ -82,10 +82,9 @@ export default function Home() {
                                 Available for new job
                             </Badge>
                             <motion.h2 className="
-                                text-xl sm:text-2xl md:text-4xl lg:text-6xl xl:text-8xl 
+                                text-xl leading-[1.2] sm:text-2xl md:text-4xl lg:text-6xl xl:text-8xl 
                                 font-extrabold tracking-tight text-white
                                 text-center md:text-left
-                                leading-tight
                             ">
                                 I AM CYNTHIA
                             </motion.h2>
@@ -99,7 +98,7 @@ export default function Home() {
                                     text-xs sm:text-sm md:text-base lg:text-lg
                                     text-center md:text-right
                                     text-balance
-                                    leading-relaxed
+                                    leading-1.2
                                     max-w-xs sm:max-w-sm md:max-w-md lg:w-90
                                 "
                                 delay={50}
